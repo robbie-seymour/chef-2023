@@ -7,9 +7,9 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+*.pub
 *.bat
 *.txt
 *.bash
 *.tar
 *.gz
-*.pub
