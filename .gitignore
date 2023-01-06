@@ -12,3 +12,4 @@ bin/*
 *.bash
 *.tar
 *.gz
+*.pub
