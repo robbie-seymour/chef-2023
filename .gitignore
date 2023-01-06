@@ -11,5 +11,5 @@ bin/*
 *.bat
 *.txt
 *.bash
-*.tar
-*.gz
+/*.tar
+/*.gz
