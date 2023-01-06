@@ -9,3 +9,4 @@ bin/*
 .kitchen.local.yml
 *.bat
 *.txt
+*.bash
